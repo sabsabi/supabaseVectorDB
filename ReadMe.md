@@ -1,3 +1,7 @@
+# Supabase Vector Store
+
+### Create a new separate knowledge base
+
 Renmame documents_ACME to the name of the new knowledge base
 Renmame match_documents_ACME to the name of the new knowledge base
 
